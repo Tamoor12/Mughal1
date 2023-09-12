@@ -11,4 +11,5 @@
  rm -rf Mughal 
  git clone https://github.com/Tamoor12/Mughal1.git
  cd Mughal1
+ git pull
  python Mughal.py
