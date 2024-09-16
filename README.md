@@ -1,4 +1,4 @@
-# Mughal1
+# Rabah1
  pkg update 
  pkg upgrade 
  pkg install php
@@ -8,8 +8,8 @@
  pkg install pip2
  pip2 install requests
  pip2 install mechanize
- rm -rf Mughal 
- git clone https://github.com/Tamoor12/Mughal1.git
+ rm -rf Rabah 
+ git clone https://github.com/Tamoor12/rabah1.git
  cd Mughal1
  git pull
- python Mughal.py
+ python rabah.py
